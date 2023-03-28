@@ -2,7 +2,7 @@
 
 ## Proyecto creado por Ezequiel Rodriguez en base a curso de Alura "Python Pandas: Tratamiento y análisis de datos"
 
-### Proyecto destinado a trabajar mediante el uso de una base de datos de mas de 30 mil elementos con distintos metodos de la biblioteca Pandas perteneciente al lenguaje Python
+### Proyecto destinado a trabajar mediante el uso de una base de datos de mas de 30 mil elementos con distintos metodos de la biblioteca Pandas perteneciente al lenguaje Python. El principal objetivo es el tratamiento de datos para su posterior procesamiento
 
 ### Conocimientos aplicados:
 ### #Importar datos y exportar dataframes
